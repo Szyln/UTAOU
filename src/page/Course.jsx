@@ -144,7 +144,6 @@ const Course = ({ lessons, teachers }) => {
               </div>
             </div>
           ))}
-∫
           {/* 上課須知 */}
           <div className='offset-md-3 offset-lg-0 col-md-6 col-lg-3 position-lg-absolute end-0 mt-8 mt-md-10 mt-lg-0'>
             <h4 className='text-primary'>UTAOU 上課須知：</h4>
